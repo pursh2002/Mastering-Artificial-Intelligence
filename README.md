@@ -4,4 +4,8 @@ work in Artificial Intelligence collaborate to learn and master AI with the help
 The goal of this group is to facilitate rapid learning, research and practical applications of Artificial Intelligence,
 machine learning and deep learning.
 
-* https://www.coursera.org/learn/machine-learning/home/welcome
+Work through the fundamentals using MOOCS/discussions/Mentors/Experts
+We meet weekly once 
+Discuss papers 
+
+
