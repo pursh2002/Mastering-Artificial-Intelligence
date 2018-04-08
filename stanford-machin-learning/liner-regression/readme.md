@@ -18,3 +18,5 @@
 * https://machinelearningmastery.com/linear-regression-in-r/
 * http://tutorials.iq.harvard.edu/R/Rstatistics/Rstatistics.html
 * https://www.youtube.com/watch?v=OGxgnH8y2NM&list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v
+* http://support.minitab.com/en-us/minitab/17/topic-library/modeling-statistics/regression-and-correlation/basics/types-of-regression-analyses/
+* https://www.analyticsvidhya.com/blog/2015/08/comprehensive-guide-regression/
