@@ -12,3 +12,4 @@ Coursera Learning: Created by: Stanford University/Andrew Ng
 * https://www.kdnuggets.com/2017/07/machine-learning-exercises-python-introductory-tutorial-series.html? utm_content=buffer14a83&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer
 * https://www.coursera.org/learn/python-machine-learning/home/week/2
 * https://newzealand.ai/ai-tutorials/
+* https://github.com/ageron/handson-ml
